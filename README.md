@@ -1,1 +1,1 @@
-# demo_project_softuni_DEMO_DEMO
+All my SoftUni Python Projects since beggining.
